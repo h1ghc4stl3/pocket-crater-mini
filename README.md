@@ -1,8 +1,6 @@
 # Pocket Crater Mini
 
-A nostalgic single-file browser game inspired by classic Pokémon-style adventures (1999–2007 era).
-
-**Pure HTML / CSS / JS — no frameworks, no servers, works offline.**
+A nostalgic single-file browser game inspired by classic Pokémon-style adventures (1999–2007 era), pure HTML / CSS / JavaScript.
 
 ## Features
 - Day / Night cycle that affects wild encounters
