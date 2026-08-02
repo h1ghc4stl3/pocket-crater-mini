@@ -19,7 +19,7 @@ A nostalgic single-file browser game inspired by classic Pokémon-style adventur
 3. Explore maps, battle wild Creatures, train, evolve, and challenge the Arena Masters.
 
 ## Credits
-Inspired by the classic Pocket Crater era. Not affiliated with Nintendo or The Pokemon Company.
+Built collaboratively with **Grok** (xAI). Inspired by the classic Pocket Crater era. Not affiliated with Nintendo or The Pokemon Company.
 
 ## License
 Free to use, modify, and share.
