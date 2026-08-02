@@ -22,3 +22,6 @@ A nostalgic single-file browser game inspired by classic Pokémon-style adventur
 
 ## Credits
 Inspired by the classic Pocket Crater era. Not affiliated with Nintendo or The Pokemon Company.
+
+## License
+Free to use, modify, and share.
