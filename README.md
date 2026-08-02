@@ -4,10 +4,13 @@ A nostalgic single-file browser game inspired by classic Pokémon-style adventur
 
 **Pure HTML / CSS / JS — no frameworks, no servers, works offline.**
 
+**Play it here:** [https://h1ghc4stl3.github.io/pocket-crater-mini/](https://h1ghc4stl3.github.io/pocket-crater-mini/)  
+*(If the link doesn’t work yet, go to the repo **Settings → Pages**, set Source to **Deploy from a branch**, Branch = `main`, Folder = `/ (root)`, then wait a minute.)*
+
 ## Features
 
 - Day / Night cycle that affects wild encounters
-- Starter selection on first load
+- Starter selection on first load (or via Settings button)
 - Full party + PC box system
 - EXP + multi-level evolution
 - Gyms / Arena Masters and badges
@@ -18,11 +21,13 @@ A nostalgic single-file browser game inspired by classic Pokémon-style adventur
 
 ## How to Play
 
-1. Open `index.html` in any modern browser (Chrome recommended on mobile).
+1. Open the game (via the GitHub Pages link above or by downloading `index.html`).
 2. Choose your starter.
 3. Explore maps, battle wild Creatures, train, evolve, and challenge the Arena Masters.
 
-You can also play it directly via GitHub Pages once enabled.
+## Local Play
+
+Just open `index.html` in any modern browser (Chrome recommended on mobile).
 
 ## Credits
 
